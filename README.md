@@ -1,0 +1,1 @@
+Repository for Project 5, a dynamically updated secure website updated by a repository codebase, for CSCE 412 Summer 2025 taken at TAMU
